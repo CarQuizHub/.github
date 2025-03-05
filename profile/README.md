@@ -3,8 +3,7 @@
 CarQuizHub is a GitHub organization for car-related quiz projects. It hosts repositories for backend APIs, frontend applications, and assets, using Cloudflare Workers, D1, R2, and React.
 
 ## 🚀 Repositories
-- [**carlogoquiz-api**](https://github.com/CarQuizHub/carlogoquiz-api) – Backend API using Cloudflare Workers & D1.
-- [**hardestcarquiz-web**](https://github.com/CarQuizHub/hardestcarquiz-web) – Frontend React application hosted on Cloudflare Pages.
+- [**carlogoquiz**](https://github.com/CarQuizHub/carlogoquiz) – Backend API using Cloudflare Workers & D1.
 
 ## 🛠 Tech Stack
 - **Frontend:** React (Cloudflare Pages)
