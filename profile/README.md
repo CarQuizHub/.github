@@ -5,7 +5,7 @@ CarQuizHub is a GitHub organization for car-related quiz projects. It hosts repo
 ## 🚀 Repositories
 - [**carlogoquiz-api**](https://github.com/CarQuizHub/carlogoquiz-api) – Backend API using Cloudflare Workers, Durable Objects RPC.
 - [**carlogoquiz-web**](https://github.com/CarQuizHub/carlogoquiz-web) – Frontend built with Astro + Svelte using Cloudflare Workers.
-- 
+  
 ## 🛠 Tech Stack
 - **Frontend:** Astro + Svelte
 - **Backend:** Durable Object RPC
